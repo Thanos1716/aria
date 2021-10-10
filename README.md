@@ -11,4 +11,6 @@ This bot includes the following commands:
  - `save`
  - `load <url>`
 
+The default prefix is `;`
+
 Exception handling is not yet fully implemented, so just use it correctly :)
